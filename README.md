@@ -1,3 +1,4 @@
 # Past_work_image
 &emsp;&emsp;These are some photos I took when I was working as a medical device technician. Many times, I didn’t take photos, and these photos may only account for 1% of the actual work.
 <br/>&emsp;&emsp;Many years of experience in large medical institutions have enabled me to master the maintenance of dozens of common medical devices, including chip-level maintenance. I can also expertly repair large-scale radiation medical equipment. In terms of medical equipment measurement and testing, I am also very familiar with the verification methods and system theories of various medical devices, and am familiar with the operation of various advanced medical equipment testing and analysis instruments.<br/>
+<br/>&emsp;&emsp;You can find the photos in the relevant folder.
